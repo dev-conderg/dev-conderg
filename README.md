@@ -1,6 +1,6 @@
 # Conderg
 
-<img src="https://www.conderg.org.br/assets/img/icon.png" alt="logo" style="height: 100px; width:100px;"/>
+<img src="img/icon.png" alt="logo" style="height: 100px; width:100px;"/>
 
 O CONDERG - Atua como referência na área da saúde cobrindo os município de: Aguaí, Águas da Prata, Caconde, Casa Branca, Divinolândia, Espírito Santo do Pinhal, Estiva Gerbi, Itapira, Itobi, Mococa, Mogi Guaçu, Mogi Mirim, Santa Cruz das Palmeiras, Santo Antônio do Jardim, São João da Boa Vista, São José do Rio Pardo, São Sebastião da Grama, Tambaú, Tapiratiba e Vargem Grande do Sul.
 
